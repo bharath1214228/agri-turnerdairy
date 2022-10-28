@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="187px" height="10px" viewBox="0 0 187 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-Copy" fill="#004D71" points="1.66089364e-13 0 187 0 187 203.203125 93 259.576997 1.66089364e-13 203.203125"></polygon>
+        <path d="M9,9 L9,195.682427 L93.4969707,246.148273 L177,195.685855 L177,9 L9,9 Z" id="Rectangle" stroke="#B7E2E7" stroke-width="2"></path>
+    </g>
+</svg>
